@@ -1,0 +1,35 @@
+{
+    "labId": "imc-python-sdk-101",
+    "title": "Introduction to IMC Python SDK",
+    "slug": "This Introduction to UCS Python Learning Lab will guide you through the use of UCS IMC Python SDK to connect to a UCS stand-alone server IMC, perform queries against IMC objects, change IMC settings and disconnect from the IMC. UCS IMC Objects are representations of BIOS settings, policies, disk configurations, other logical constructs and physical entities.",
+    "time": "30",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "Python"
+    }, {
+        "title": "UCS"
+    }, {
+        "title": "IMC"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }],
+    "related": [{
+        "labId": "imc-redfish-rest-api-101",
+        "title": "Introductory UCS IMC Redfish REST API"
+    }, {
+        "labId": "imc-powertool-101",
+        "title": "Introduction to IMC PowerTool"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": true
+}

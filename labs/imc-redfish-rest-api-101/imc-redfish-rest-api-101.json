@@ -1,0 +1,37 @@
+{
+    "labId": "imc-redfish-rest-api-101",
+    "title": "Introductory UCS IMC Redfish REST API",
+    "slug": "Learn how to use the UCS IMC Redfish REST API to connect, query and configure the UCS IMC",
+    "time": "45",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "UCS"
+    }, {
+        "title": "IMC"
+    },{
+        "title": "Automation"
+    },{
+        "title": "Redfish"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }],
+    "related": [{
+        "labId": "imc-powertool-101",
+        "title": "Introduction to IMC PowerTool"
+    }, {
+      "labId": "imc-python-sdk-101",
+      "title": "Introduction to IMC Python SDK"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": true
+}
