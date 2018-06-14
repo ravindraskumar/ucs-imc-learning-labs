@@ -1,8 +1,8 @@
 ## Cisco DevNet Learning Labs: Integrated Management Controller (IMC) for UCS
 
-These self-paced interactive tutorials provide instructions for developers to  represent UCS IMC Objects programmatically.
+These self-paced interactive tutorials provide instructions for developers to represent UCS IMC Objects programmatically.
 
-Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+We write these labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
@@ -34,11 +34,11 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 #### Editors
 
 You can write Markdown in a plain text editor, but there are many desktop and Web-based options that allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for several reasons:
-- Lightweight environment for coding (or writing Markdown)
-- Available on Mac OS, Linux or Windows
-- Github Client integration
-- Great Markdown preview features native in the editor
-- Intuitive operation and structure
+- Lightweight environment for coding (or writing Markdown).
+- Available on Mac OS, Linux or Windows.
+- Github Client integration.
+- Great Markdown preview features native in the editor.
+- Intuitive operation and structure.
 
 You can validate a JSON file by using the [online formatter and validator](https://jsonformatter.curiousconcept.com).
 
