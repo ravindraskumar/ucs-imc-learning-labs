@@ -22,7 +22,7 @@ For DevNet Express events, use these three Issue tracker repos based on the cont
 
 Use the issue tracker to suggest additions, report bugs, and ask questions. This is also a great way to connect with the developers of the project as well as others who are interested in this solution.
 
-Also use the issue tracker to find ways to contribute. Test a lab, find a bug, log an issue. Or offer an update, comment on the issue that you will take on that effort, then follow the _Changing the Learning Lab content_ guidance below.
+Also, use the issue tracker to find ways to contribute. You can test a lab, find a bug, or log an issue. You can also offer an update by commenting on the issue to let others know that you are taking on the effort. If you plan to update a Learning Lab, follow the _Changing the Learning Lab content_ guidance below.
 
 ## Changing the Learning Lab content
 
