@@ -14,6 +14,9 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 The Cisco Integrated Management Controller (IMC) is a baseboard management controller that provides embedded server management for Cisco UCS Stand-Alone Rack Servers. IMC Objects are representations of BIOS settings, policies, disk configurations, other logical constructs and physical entities.
 
+If you need more help, you can reach out to DevNet through one of our [support options](https://developer.cisco.com/site/devnet/support/).
+
+
 ## Contributing
 
 These learning modules are for public consumption, so you must ensure that you have the rights to any content that you contribute.
